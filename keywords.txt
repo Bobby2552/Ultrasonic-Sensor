@@ -1,0 +1,5 @@
+UltrasonicSensor	KEYWORD1
+ping			KEYWORD2
+toIn			KEYWORD2
+toCm			KEYWORD2
+pingSmooth		KEYWORD2
